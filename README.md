@@ -4,6 +4,6 @@ https://ipdc-finance-ui.vercel.app/
 
 # Description 
 
-Beautiful hero Section made up using HTML and CSS Only* 
+Beautiful Hero Section made up using HTML and CSS Only* 
 
   
